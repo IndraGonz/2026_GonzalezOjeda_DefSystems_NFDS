@@ -21,19 +21,29 @@ Indra Gonzalez Ojeda, Fernando Rossine, Juan Gago, Lindsay R. Grant, Laura L. Ha
 
 ## Figure 1
 
+<img src="https://github.com/IndraGonz/2026_GonzalezOjeda_DefSystems_NFDS/blob/main/Figures/images/Figure1_v3_DefSys.png" alt="Figure 1" width="900"/>  
+
 ### 1B and 1C
 
 ### 1D
 
 ## Figure 2
 
+<img src="https://github.com/IndraGonz/2026_GonzalezOjeda_DefSystems_NFDS/blob/main/Figures/images/Figure2_v3_DefSys.png" alt="Figure 2" width="900"/>  
+
 ## Figure 3
 
+<img src="https://github.com/IndraGonz/2026_GonzalezOjeda_DefSystems_NFDS/blob/main/Figures/images/Figure3_v3_DefSys.png" alt="Figure 3" width="900"/>  
+
 ## Figure 4
+
+<img src="https://github.com/IndraGonz/2026_GonzalezOjeda_DefSystems_NFDS/blob/main/Figures/images/Figure4_v3_DefSys.png" alt="Figure 4" width="900"/>  
 
 ### 4B and 4C
 
 ## Figure 5
+
+<img src="https://github.com/IndraGonz/2026_GonzalezOjeda_DefSystems_NFDS/blob/main/Figures/images/Figure5_v3_DefSys.png" alt="Figure 5" width="900"/>  
 
 ### 5A and 5B
 
